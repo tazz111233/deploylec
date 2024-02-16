@@ -11,6 +11,7 @@
     "devServer": "cross-env NODE_ENV=dev nodemon server.js",
     "testServer": "cross-env NODE_ENV=test nodemon server.js",
     "test": "cross-env NODE_ENV=test jest --verbose -runInBand"
+    
   },
   "keywords": [],
   "author": "",
